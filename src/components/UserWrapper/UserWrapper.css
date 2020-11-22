@@ -1,0 +1,9 @@
+.container-grid{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+.showModal{
+	display: block;
+	margin: 10px auto;
+}
+/*# sourceMappingURL=UserWraper.css.map */
